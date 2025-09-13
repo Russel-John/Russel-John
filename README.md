@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Russel!  
+#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Russel!)](https://git.io/typing-svg)
 
 🎓 3rd-year college student passionate about **Web Development** and **Networking**.  
 💡 Currently learning **C#, SQL, and Cisco Packet Tracer**.  
