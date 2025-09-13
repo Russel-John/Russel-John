@@ -6,7 +6,7 @@
 
 ### 🔧 Skills & Tools  
 - Languages: C#, Java, HTML, CSS, SQL  
-- Database: Microsoft SQL Server  
+- Database: Microsoft SQL Server, XAMPP
 - Networking: Cisco Packet Tracer,  
 - Tools: Visual Studio, Git, GitHub  
 
