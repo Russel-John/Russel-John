@@ -13,14 +13,14 @@
 - **Networking:** Cisco Packet Tracer  
 - **Tools:** Visual Studio, Git, GitHub  
 
----
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace+Neon&weight=800&pause=1000&color=F7F7F7&width=435&lines=📚+Current+Projects)](https://git.io/typing-svg)  
 
 - 🖥️ Student CRUD Application (C# + SQL)  
 - 📘 IT Elective activities and mini projects  
 
----
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace+Neon&weight=800&pause=1000&color=F7F7F7&width=435&lines=🌱+Goals)](https://git.io/typing-svg)  
 
@@ -28,7 +28,7 @@
 - Contribute to open-source projects  
 - Pursue a career as a **Software Developer** or **Network Engineer**  
 
----
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaspace+Neon&weight=800&pause=1000&color=F7F7F7&width=435&lines=📫+Connect+with+Me)](https://git.io/typing-svg)  
 
