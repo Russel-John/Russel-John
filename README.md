@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Russel!  
 
-<!--
-**Russel-John/Russel-John** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year college student passionate about **Web Development** and **Networking**.  
+💡 Currently learning **C#, SQL, and Cisco Packet Tracer**.  
+🚀 Building projects to strengthen my coding skills and apply classroom knowledge.  
 
-Here are some ideas to get you started:
+### 🔧 Skills & Tools  
+- Languages: C#, Java, HTML, CSS, SQL  
+- Database: Microsoft SQL Server  
+- Networking: Cisco Packet Tracer,  
+- Tools: Visual Studio, Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Current Projects  
+- Student CRUD Application (C# + SQL)   
+- IT Elective activities and mini projects  
+
+### 🌱 Goals  
+- Improve my programming and database management skills  
+- Contribute to open-source projects in the future  
+- Become a professional software developer or network engineer  
+
+### 📫 Connect with me  
+- GitHub: [Russel-John](https://github.com/Russel-John)  
+- Email: johnrussellibarnes2@gmail.com  
